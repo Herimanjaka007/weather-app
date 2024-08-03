@@ -1,8 +1,34 @@
-# React + Vite
+<h1 align="center" id="title">Application Meteo</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p id="description">application qui affiche des conditions météorologiques actuelles de la ville choisie.</p>
 
-Currently, two official plugins are available:
+<p align="center"><img src="https://img.shields.io/badge/project_status-in_progress-blue" alt="shields"></p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h2>🛠️ Installation Steps:</h2>
+
+<p>1. clone cette projet</p>
+
+```
+git clone https://github.com/Herimanjaka007/weather-app.git weather-app
+```
+
+<p>2. installer les dependances</p>
+
+```
+npm install
+```
+
+<p>3. lancer le serveur</p>
+
+```
+npm run dev
+```
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   React js
+*   OpenWeather
